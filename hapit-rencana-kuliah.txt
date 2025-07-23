@@ -7,3 +7,7 @@ RENCANA KULIAH
  * Laravel
  * JavaScript
 - Menekuni dengan giat dan konsisten
+- Framework JavaScript
+ < Vue
+- Frameworks PHP
+ < Symfony
