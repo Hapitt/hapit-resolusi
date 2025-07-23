@@ -8,6 +8,7 @@ RENCANA KULIAH
  * JavaScript
 - Menekuni dengan giat dan konsisten
 - Framework JavaScript
- < Angular
+ < Vue
 - Frameworks PHP
- <  CodeIgniter
+ < Symfony
+
