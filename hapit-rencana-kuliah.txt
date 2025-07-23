@@ -2,4 +2,7 @@ RENCANA KULIAH
 
 - Masuk Melalui beasiswa
 - Mengambil Teknik Informatika 
+ * Ai
+ * Pyhton 
+ * Laravel
 - Menekuni dengan giat dan konsisten
